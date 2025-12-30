@@ -216,7 +216,7 @@ const currentFocus = {
 
 I'm always excited to collaborate on innovative projects, discuss tech, or just chat about the latest in web development!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/akshatparmar](https://www.linkedin.com/in/akshat-parmar-29a987327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BikaSM9rUQauMvCnrOjGWKg%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatparmar17)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmarakshat17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshaTGA)
 
