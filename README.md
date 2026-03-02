@@ -19,7 +19,7 @@
 ```typescript
 const akshat: Developer = {
   education: "B.Tech @ IIIT Allahabad",
-  cgpa: "8.13/10",
+  cgpa: "8.14/10",
   location: "Indore, Madhya Pradesh 🇮🇳",
   
   expertise: [
